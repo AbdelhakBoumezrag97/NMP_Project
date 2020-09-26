@@ -7,4 +7,5 @@
 * Cerification and testing. 
 * Confirmation and backups.
 * Continuous checking and reports generation.
+   
    That’s all pretty cover most of an administrator daily work, and they all about pushing and gathering specific information from devices CLI using SSH protocol.
