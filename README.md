@@ -3,3 +3,4 @@ The Network Management Platform is a Python application for network automation b
 
 ## NMP Prototype and workflow
 
+<img src="Prototype/nmp%workflow>
