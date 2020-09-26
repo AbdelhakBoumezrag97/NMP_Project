@@ -4,7 +4,7 @@
 ## NMP Prototype and workflow
    we cover four common main aspects where automation makes sense, which are:  
 * Configuration management and provisioning.
-* Cerification and testing. 
+* Verification and testing. 
 * Confirmation and backups.
 * Continuous checking and reports generation.
    
